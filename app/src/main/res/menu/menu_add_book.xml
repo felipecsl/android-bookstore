@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context="com.example.android.app.AddBookActivity">
+
+    <item
+        android:id="@+id/action_done"
+        android:title="Done"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+</menu>
